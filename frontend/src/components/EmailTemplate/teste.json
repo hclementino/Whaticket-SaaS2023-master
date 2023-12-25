@@ -1,0 +1,724 @@
+{
+    "counters": {
+        "u_row": 6,
+        "u_column": 6,
+        "u_content_text": 8,
+        "u_content_image": 2,
+        "u_content_button": 1,
+        "u_content_social": 1
+    },
+    "body": {
+        "id": "Ys4JiIy3ZO",
+        "rows": [{
+            "id": "jqf_db-UmA",
+            "cells": [1],
+            "columns": [{
+                "id": "sX8n1F3b62",
+                "contents": [{
+                    "id": "-vtzfty9af",
+                    "type": "text",
+                    "values": {
+                        "containerPadding": "10px",
+                        "anchor": "",
+                        "fontSize": "14px",
+                        "color": "#afb0c7",
+                        "textAlign": "center",
+                        "lineHeight": "170%",
+                        "linkStyle": {
+                            "inherit": true,
+                            "linkColor": "#0000ee",
+                            "linkHoverColor": "#0000ee",
+                            "linkUnderline": true,
+                            "linkHoverUnderline": true
+                        },
+                        "hideDesktop": false,
+                        "displayCondition": null,
+                        "_meta": {
+                            "htmlID": "u_content_text_1",
+                            "htmlClassNames": "u_content_text"
+                        },
+                        "selectable": true,
+                        "draggable": true,
+                        "duplicatable": true,
+                        "deletable": true,
+                        "hideable": true,
+                        "text": "<p style=\"font-size: 14px; line-height: 170%;\"><span style=\"font-size: 14px; line-height: 23.8px;\">View Email in Browser</span></p>",
+                        "hideMobile": false
+                    },
+                    "hasDeprecatedFontControls": true
+                }],
+                "values": {
+                    "_meta": {
+                        "htmlID": "u_column_1",
+                        "htmlClassNames": "u_column"
+                    },
+                    "border": {},
+                    "padding": "0px",
+                    "backgroundColor": ""
+                }
+            }],
+            "values": {
+                "displayCondition": null,
+                "columns": false,
+                "backgroundColor": "",
+                "columnsBackgroundColor": "",
+                "backgroundImage": {
+                    "url": "",
+                    "fullWidth": true,
+                    "repeat": "no-repeat",
+                    "size": "custom",
+                    "position": "top-center",
+                    "customPosition": ["50%", "0%"]
+                },
+                "padding": "0px",
+                "anchor": "",
+                "hideDesktop": false,
+                "_meta": {
+                    "htmlID": "u_row_1",
+                    "htmlClassNames": "u_row"
+                },
+                "selectable": true,
+                "draggable": true,
+                "duplicatable": true,
+                "deletable": true,
+                "hideable": true,
+                "hideMobile": false,
+                "noStackMobile": false
+            }
+        }, {
+            "id": "NGTfWcz3fu",
+            "cells": [1],
+            "columns": [{
+                "id": "KO1Ed79eBo",
+                "contents": [{
+                    "id": "Vbg79Y5xK2",
+                    "type": "image",
+                    "values": {
+                        "containerPadding": "20px",
+                        "anchor": "",
+                        "src": {
+                            "url": "https://cdn.templates.unlayer.com/assets/1597218426091-xx.png",
+                            "width": 537,
+                            "height": 137,
+                            "maxWidth": "32%",
+                            "autoWidth": false
+                        },
+                        "textAlign": "center",
+                        "altText": "Image",
+                        "action": {
+                            "name": "web",
+                            "values": {
+                                "href": "",
+                                "target": "_blank"
+                            }
+                        },
+                        "hideDesktop": false,
+                        "displayCondition": null,
+                        "_meta": {
+                            "htmlID": "u_content_image_1",
+                            "htmlClassNames": "u_content_image"
+                        },
+                        "selectable": true,
+                        "draggable": true,
+                        "duplicatable": true,
+                        "deletable": true,
+                        "hideable": true,
+                        "hideMobile": false
+                    }
+                }],
+                "values": {
+                    "_meta": {
+                        "htmlID": "u_column_2",
+                        "htmlClassNames": "u_column"
+                    },
+                    "border": {},
+                    "padding": "0px",
+                    "backgroundColor": ""
+                }
+            }],
+            "values": {
+                "displayCondition": null,
+                "columns": false,
+                "backgroundColor": "",
+                "columnsBackgroundColor": "#ffffff",
+                "backgroundImage": {
+                    "url": "",
+                    "fullWidth": true,
+                    "repeat": "no-repeat",
+                    "size": "custom",
+                    "position": "top-center",
+                    "customPosition": ["50%", "0%"]
+                },
+                "padding": "0px",
+                "anchor": "",
+                "hideDesktop": false,
+                "_meta": {
+                    "htmlID": "u_row_2",
+                    "htmlClassNames": "u_row"
+                },
+                "selectable": true,
+                "draggable": true,
+                "duplicatable": true,
+                "deletable": true,
+                "hideable": true,
+                "hideMobile": false,
+                "noStackMobile": false
+            }
+        }, {
+            "id": "YigQQwRuFo",
+            "cells": [1],
+            "columns": [{
+                "id": "E702kxNJXa",
+                "contents": [{
+                    "id": "QU8PCx9Fb9",
+                    "type": "image",
+                    "values": {
+                        "containerPadding": "40px 10px 10px",
+                        "anchor": "",
+                        "src": {
+                            "url": "https://cdn.templates.unlayer.com/assets/1597218650916-xxxxc.png",
+                            "width": 335,
+                            "height": 93,
+                            "maxWidth": "26%",
+                            "autoWidth": false
+                        },
+                        "textAlign": "center",
+                        "altText": "Image",
+                        "action": {
+                            "name": "web",
+                            "values": {
+                                "href": "",
+                                "target": "_blank"
+                            }
+                        },
+                        "hideDesktop": false,
+                        "displayCondition": null,
+                        "_meta": {
+                            "htmlID": "u_content_image_2",
+                            "htmlClassNames": "u_content_image"
+                        },
+                        "selectable": true,
+                        "draggable": true,
+                        "duplicatable": true,
+                        "deletable": true,
+                        "hideable": true,
+                        "hideMobile": false
+                    }
+                }, {
+                    "id": "lavy-wDDn8",
+                    "type": "text",
+                    "values": {
+                        "containerPadding": "10px",
+                        "anchor": "",
+                        "fontSize": "14px",
+                        "color": "#e5eaf5",
+                        "textAlign": "center",
+                        "lineHeight": "140%",
+                        "linkStyle": {
+                            "inherit": true,
+                            "linkColor": "#0000ee",
+                            "linkHoverColor": "#0000ee",
+                            "linkUnderline": true,
+                            "linkHoverUnderline": true
+                        },
+                        "hideDesktop": false,
+                        "displayCondition": null,
+                        "_meta": {
+                            "htmlID": "u_content_text_3",
+                            "htmlClassNames": "u_content_text"
+                        },
+                        "selectable": true,
+                        "draggable": true,
+                        "duplicatable": true,
+                        "deletable": true,
+                        "hideable": true,
+                        "text": "<p style=\"font-size: 14px; line-height: 140%;\"><strong>T H A N K S&nbsp; &nbsp;F O R&nbsp; &nbsp;S I G N I N G&nbsp; &nbsp;U P !</strong></p>",
+                        "hideMobile": false
+                    },
+                    "hasDeprecatedFontControls": true
+                }, {
+                    "id": "d3PQ9hjL27",
+                    "type": "text",
+                    "values": {
+                        "containerPadding": "0px 10px 31px",
+                        "anchor": "",
+                        "fontSize": "14px",
+                        "color": "#e5eaf5",
+                        "textAlign": "center",
+                        "lineHeight": "140%",
+                        "linkStyle": {
+                            "inherit": true,
+                            "linkColor": "#0000ee",
+                            "linkHoverColor": "#0000ee",
+                            "linkUnderline": true,
+                            "linkHoverUnderline": true
+                        },
+                        "hideDesktop": false,
+                        "displayCondition": null,
+                        "_meta": {
+                            "htmlID": "u_content_text_4",
+                            "htmlClassNames": "u_content_text"
+                        },
+                        "selectable": true,
+                        "draggable": true,
+                        "duplicatable": true,
+                        "deletable": true,
+                        "hideable": true,
+                        "text": "<p style=\"font-size: 14px; line-height: 140%;\"><span style=\"font-size: 28px; line-height: 39.2px;\"><strong><span style=\"line-height: 39.2px; font-size: 28px;\">Verify Your E-mail Address&nbsp;</span></strong></span></p>",
+                        "hideMobile": false
+                    },
+                    "hasDeprecatedFontControls": true
+                }],
+                "values": {
+                    "_meta": {
+                        "htmlID": "u_column_3",
+                        "htmlClassNames": "u_column"
+                    },
+                    "border": {},
+                    "padding": "0px",
+                    "backgroundColor": ""
+                }
+            }],
+            "values": {
+                "displayCondition": null,
+                "columns": false,
+                "backgroundColor": "",
+                "columnsBackgroundColor": "#003399",
+                "backgroundImage": {
+                    "url": "",
+                    "fullWidth": true,
+                    "repeat": "no-repeat",
+                    "size": "custom",
+                    "position": "top-center",
+                    "customPosition": ["50%", "0%"]
+                },
+                "padding": "0px",
+                "anchor": "",
+                "hideDesktop": false,
+                "_meta": {
+                    "htmlID": "u_row_3",
+                    "htmlClassNames": "u_row"
+                },
+                "selectable": true,
+                "draggable": true,
+                "duplicatable": true,
+                "deletable": true,
+                "hideable": true,
+                "hideMobile": false,
+                "noStackMobile": false
+            }
+        }, {
+            "id": "PeuIEH2H73",
+            "cells": [1],
+            "columns": [{
+                "id": "qH-iugglF1",
+                "contents": [{
+                    "id": "CN3SrLFSrt",
+                    "type": "text",
+                    "values": {
+                        "containerPadding": "33px 55px",
+                        "anchor": "",
+                        "fontSize": "14px",
+                        "textAlign": "center",
+                        "lineHeight": "160%",
+                        "linkStyle": {
+                            "inherit": true,
+                            "linkColor": "#0000ee",
+                            "linkHoverColor": "#0000ee",
+                            "linkUnderline": true,
+                            "linkHoverUnderline": true
+                        },
+                        "hideDesktop": false,
+                        "displayCondition": null,
+                        "_meta": {
+                            "htmlID": "u_content_text_6",
+                            "htmlClassNames": "u_content_text"
+                        },
+                        "selectable": true,
+                        "draggable": true,
+                        "duplicatable": true,
+                        "deletable": true,
+                        "hideable": true,
+                        "text": "<p style=\"font-size: 14px; line-height: 160%;\"><span style=\"font-size: 22px; line-height: 35.2px;\">Hi, </span></p>\n<p style=\"font-size: 14px; line-height: 160%;\"><span style=\"font-size: 18px; line-height: 28.8px;\">You're almost ready to get started. Please click on the button below to verify your email address and enjoy exclusive cleaning services with us!&nbsp;</span></p>",
+                        "hideMobile": false
+                    },
+                    "hasDeprecatedFontControls": true
+                }, {
+                    "id": "glcer1ucLm",
+                    "type": "button",
+                    "values": {
+                        "containerPadding": "10px",
+                        "anchor": "",
+                        "href": {
+                            "name": "web",
+                            "values": {
+                                "href": "",
+                                "target": "_blank"
+                            }
+                        },
+                        "buttonColors": {
+                            "color": "#FFFFFF",
+                            "backgroundColor": "#ff6600",
+                            "hoverColor": "#FFFFFF",
+                            "hoverBackgroundColor": "#3AAEE0"
+                        },
+                        "size": {
+                            "autoWidth": true,
+                            "width": "100%"
+                        },
+                        "fontSize": "14px",
+                        "textAlign": "center",
+                        "lineHeight": "120%",
+                        "padding": "14px 44px 13px",
+                        "border": {},
+                        "borderRadius": "4px",
+                        "hideDesktop": false,
+                        "displayCondition": null,
+                        "_meta": {
+                            "htmlID": "u_content_button_1",
+                            "htmlClassNames": "u_content_button"
+                        },
+                        "selectable": true,
+                        "draggable": true,
+                        "duplicatable": true,
+                        "deletable": true,
+                        "hideable": true,
+                        "text": "<span style=\"font-size: 16px; line-height: 19.2px;\"><strong><span style=\"line-height: 19.2px; font-size: 16px;\">VERIFY YOUR EMAIL</span></strong></span>",
+                        "hideMobile": false,
+                        "calculatedWidth": 234,
+                        "calculatedHeight": 46
+                    },
+                    "hasDeprecatedFontControls": true
+                }, {
+                    "id": "NCr2n3komF",
+                    "type": "text",
+                    "values": {
+                        "containerPadding": "33px 55px 60px",
+                        "anchor": "",
+                        "fontSize": "14px",
+                        "textAlign": "center",
+                        "lineHeight": "160%",
+                        "linkStyle": {
+                            "inherit": true,
+                            "linkColor": "#0000ee",
+                            "linkHoverColor": "#0000ee",
+                            "linkUnderline": true,
+                            "linkHoverUnderline": true
+                        },
+                        "hideDesktop": false,
+                        "displayCondition": null,
+                        "_meta": {
+                            "htmlID": "u_content_text_7",
+                            "htmlClassNames": "u_content_text"
+                        },
+                        "selectable": true,
+                        "draggable": true,
+                        "duplicatable": true,
+                        "deletable": true,
+                        "hideable": true,
+                        "text": "<p style=\"line-height: 160%; font-size: 14px;\"><span style=\"font-size: 18px; line-height: 28.8px;\">Thanks,</span></p>\n<p style=\"line-height: 160%; font-size: 14px;\"><span style=\"font-size: 18px; line-height: 28.8px;\">The Company Team</span></p>",
+                        "hideMobile": false
+                    },
+                    "hasDeprecatedFontControls": true
+                }],
+                "values": {
+                    "_meta": {
+                        "htmlID": "u_column_4",
+                        "htmlClassNames": "u_column"
+                    },
+                    "border": {},
+                    "padding": "0px",
+                    "backgroundColor": ""
+                }
+            }],
+            "values": {
+                "displayCondition": null,
+                "columns": false,
+                "backgroundColor": "",
+                "columnsBackgroundColor": "#ffffff",
+                "backgroundImage": {
+                    "url": "",
+                    "fullWidth": true,
+                    "repeat": "no-repeat",
+                    "size": "custom",
+                    "position": "top-center",
+                    "customPosition": ["50%", "0%"]
+                },
+                "padding": "0px",
+                "anchor": "",
+                "hideDesktop": false,
+                "_meta": {
+                    "htmlID": "u_row_4",
+                    "htmlClassNames": "u_row"
+                },
+                "selectable": true,
+                "draggable": true,
+                "duplicatable": true,
+                "deletable": true,
+                "hideable": true,
+                "hideMobile": false,
+                "noStackMobile": false
+            }
+        }, {
+            "id": "wTGERrkrtZ",
+            "cells": [1],
+            "columns": [{
+                "id": "-i3ahgJZBK",
+                "contents": [{
+                    "id": "9Eb9jkwmAw",
+                    "type": "text",
+                    "values": {
+                        "containerPadding": "41px 55px 18px",
+                        "anchor": "",
+                        "fontSize": "14px",
+                        "color": "#003399",
+                        "textAlign": "center",
+                        "lineHeight": "160%",
+                        "linkStyle": {
+                            "inherit": true,
+                            "linkColor": "#0000ee",
+                            "linkHoverColor": "#0000ee",
+                            "linkUnderline": true,
+                            "linkHoverUnderline": true
+                        },
+                        "hideDesktop": false,
+                        "displayCondition": null,
+                        "_meta": {
+                            "htmlID": "u_content_text_5",
+                            "htmlClassNames": "u_content_text"
+                        },
+                        "selectable": true,
+                        "draggable": true,
+                        "duplicatable": true,
+                        "deletable": true,
+                        "hideable": true,
+                        "text": "<p style=\"font-size: 14px; line-height: 160%;\"><span style=\"font-size: 20px; line-height: 32px;\"><strong>Get in touch</strong></span></p>\n<p style=\"font-size: 14px; line-height: 160%;\"><span style=\"font-size: 16px; line-height: 25.6px; color: #000000;\">+11 111 333 4444</span></p>\n<p style=\"font-size: 14px; line-height: 160%;\"><span style=\"font-size: 16px; line-height: 25.6px; color: #000000;\">Info@YourCompany.com</span></p>",
+                        "hideMobile": false
+                    },
+                    "hasDeprecatedFontControls": true
+                }, {
+                    "id": "xP2KWBdQca",
+                    "type": "social",
+                    "values": {
+                        "containerPadding": "10px 10px 33px",
+                        "anchor": "",
+                        "icons": {
+                            "iconType": "circle-black",
+                            "icons": [{
+                                "url": "https://facebook.com/",
+                                "name": "Facebook"
+                            }, {
+                                "url": "https://linkedin.com/",
+                                "name": "LinkedIn"
+                            }, {
+                                "url": "https://instagram.com/",
+                                "name": "Instagram"
+                            }, {
+                                "url": "https://youtube.com/",
+                                "name": "YouTube"
+                            }, {
+                                "url": "https://email.com/",
+                                "name": "Email"
+                            }],
+                            "editor": {
+                                "data": {
+                                    "showDefaultIcons": true,
+                                    "showDefaultOptions": true,
+                                    "customIcons": [],
+                                    "customOptions": []
+                                }
+                            }
+                        },
+                        "align": "center",
+                        "spacing": 17,
+                        "hideDesktop": false,
+                        "displayCondition": null,
+                        "_meta": {
+                            "htmlID": "u_content_social_1",
+                            "htmlClassNames": "u_content_social"
+                        },
+                        "selectable": true,
+                        "draggable": true,
+                        "duplicatable": true,
+                        "deletable": true,
+                        "hideable": true,
+                        "hideMobile": false
+                    }
+                }],
+                "values": {
+                    "_meta": {
+                        "htmlID": "u_column_5",
+                        "htmlClassNames": "u_column"
+                    },
+                    "border": {},
+                    "padding": "0px",
+                    "backgroundColor": ""
+                }
+            }],
+            "values": {
+                "displayCondition": null,
+                "columns": false,
+                "backgroundColor": "",
+                "columnsBackgroundColor": "#e5eaf5",
+                "backgroundImage": {
+                    "url": "",
+                    "fullWidth": true,
+                    "repeat": "no-repeat",
+                    "size": "custom",
+                    "position": "top-center",
+                    "customPosition": ["50%", "0%"]
+                },
+                "padding": "0px",
+                "anchor": "",
+                "hideDesktop": false,
+                "_meta": {
+                    "htmlID": "u_row_5",
+                    "htmlClassNames": "u_row"
+                },
+                "selectable": true,
+                "draggable": true,
+                "duplicatable": true,
+                "deletable": true,
+                "hideable": true,
+                "hideMobile": false,
+                "noStackMobile": false
+            }
+        }, {
+            "id": "gpDqAAmKW4",
+            "cells": [1],
+            "columns": [{
+                "id": "ovcDF-h3o4",
+                "contents": [{
+                    "id": "dlXZTlvGor",
+                    "type": "text",
+                    "values": {
+                        "containerPadding": "10px",
+                        "anchor": "",
+                        "fontSize": "14px",
+                        "color": "#fafafa",
+                        "textAlign": "center",
+                        "lineHeight": "180%",
+                        "linkStyle": {
+                            "inherit": true,
+                            "linkColor": "#0000ee",
+                            "linkHoverColor": "#0000ee",
+                            "linkUnderline": true,
+                            "linkHoverUnderline": true
+                        },
+                        "hideDesktop": false,
+                        "displayCondition": null,
+                        "_meta": {
+                            "htmlID": "u_content_text_8",
+                            "htmlClassNames": "u_content_text"
+                        },
+                        "selectable": true,
+                        "draggable": true,
+                        "duplicatable": true,
+                        "deletable": true,
+                        "hideable": true,
+                        "text": "<p style=\"font-size: 14px; line-height: 180%;\"><span style=\"font-size: 16px; line-height: 28.8px;\">Copyrights &copy; Company All Rights Reserved</span></p>",
+                        "hideMobile": false
+                    },
+                    "hasDeprecatedFontControls": true
+                }],
+                "values": {
+                    "_meta": {
+                        "htmlID": "u_column_6",
+                        "htmlClassNames": "u_column"
+                    },
+                    "border": {},
+                    "padding": "0px",
+                    "backgroundColor": ""
+                }
+            }],
+            "values": {
+                "displayCondition": null,
+                "columns": false,
+                "backgroundColor": "",
+                "columnsBackgroundColor": "#003399",
+                "backgroundImage": {
+                    "url": "",
+                    "fullWidth": true,
+                    "repeat": "no-repeat",
+                    "size": "custom",
+                    "position": "top-center",
+                    "customPosition": ["50%", "0%"]
+                },
+                "padding": "0px",
+                "anchor": "",
+                "hideDesktop": false,
+                "_meta": {
+                    "htmlID": "u_row_6",
+                    "htmlClassNames": "u_row"
+                },
+                "selectable": true,
+                "draggable": true,
+                "duplicatable": true,
+                "deletable": true,
+                "hideable": true,
+                "hideMobile": false,
+                "noStackMobile": false
+            }
+        }],
+        "headers": [],
+        "footers": [],
+        "values": {
+            "popupPosition": "center",
+            "popupWidth": "600px",
+            "popupHeight": "auto",
+            "borderRadius": "10px",
+            "contentAlign": "center",
+            "contentVerticalAlign": "center",
+            "contentWidth": "600px",
+            "fontFamily": {
+                "label": "Cabin",
+                "value": "'Cabin',sans-serif",
+                "url": "https://fonts.googleapis.com/css?family=Cabin:400,700",
+                "defaultFont": true
+            },
+            "textColor": "#000000",
+            "popupBackgroundColor": "#FFFFFF",
+            "popupBackgroundImage": {
+                "url": "",
+                "fullWidth": true,
+                "repeat": "no-repeat",
+                "size": "cover",
+                "position": "center"
+            },
+            "popupOverlay_backgroundColor": "rgba(0, 0, 0, 0.1)",
+            "popupCloseButton_position": "top-right",
+            "popupCloseButton_backgroundColor": "#DDDDDD",
+            "popupCloseButton_iconColor": "#000000",
+            "popupCloseButton_borderRadius": "0px",
+            "popupCloseButton_margin": "0px",
+            "popupCloseButton_action": {
+                "name": "close_popup",
+                "attrs": {
+                    "onClick": "document.querySelector('.u-popup-container').style.display = 'none';"
+                }
+            },
+            "backgroundColor": "#f9f9f9",
+            "backgroundImage": {
+                "url": "",
+                "fullWidth": true,
+                "repeat": "no-repeat",
+                "size": "custom",
+                "position": "top-center",
+                "customPosition": ["50%", "0%"]
+            },
+            "preheaderText": "",
+            "linkStyle": {
+                "body": true,
+                "linkColor": "#0000ee",
+                "linkHoverColor": "#0000ee",
+                "linkUnderline": true,
+                "linkHoverUnderline": true
+            },
+            "_meta": {
+                "htmlID": "u_body",
+                "htmlClassNames": "u_body"
+            }
+        }
+    },
+    "schemaVersion": 16
+}
